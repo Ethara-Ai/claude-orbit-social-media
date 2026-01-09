@@ -6,7 +6,7 @@ A premium, fully-featured social media application built with React, Vite, Tailw
 ![Orbit](https://img.shields.io/badge/Vite-5.0.0-purple)
 ![Orbit](https://img.shields.io/badge/Tailwind-3.3.5-cyan)
 
-## ✨ Features
+## Features
 
 ### Core Functionality
 - **Home Feed** - Create posts with text and multiple images, like and comment on posts
@@ -38,7 +38,7 @@ A premium, fully-featured social media application built with React, Vite, Tailw
 - **Optimized Rendering** - Staggered animations and lazy rendering for performance
 - **Accessibility** - Semantic HTML, ARIA labels, keyboard navigation, visible focus states
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js 16+ installed on your system
@@ -78,7 +78,7 @@ The optimized production build will be in the `dist` folder.
 npm run preview
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 orbit/
@@ -115,7 +115,7 @@ orbit/
 └── vite.config.js
 ```
 
-## 🎨 Design System
+## Design System
 
 ### Colors
 - **Primary**: #FF8C42 (Warm Orange)
@@ -136,7 +136,7 @@ orbit/
 - Light Mode: Subtle soft shadows
 - Dark Mode: Deeper, more pronounced shadows
 
-## 🔥 Key Features Explained
+## Key Features Explained
 
 ### Adaptive Theme System
 The theme automatically detects system preferences and persists user choice to localStorage. Theme changes are applied before the first render to prevent flashing.
@@ -153,7 +153,7 @@ Lists and grids animate items with sequential delays, creating a smooth, profess
 ### Smart Mobile Navigation
 On mobile devices, tapping the logo toggles the slide-out navigation drawer. The drawer has a spring animation and closes automatically when selecting a nav item.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **React 18.2** - UI library
 - **Vite 5.0** - Build tool and dev server
@@ -161,7 +161,7 @@ On mobile devices, tapping the logo toggles the slide-out navigation drawer. The
 - **Framer Motion 10.16** - Animation library
 - **Lucide React 0.292** - Icon library
 
-## 📱 Browser Support
+## Browser Support
 
 - Chrome (latest)
 - Firefox (latest)
@@ -169,7 +169,7 @@ On mobile devices, tapping the logo toggles the slide-out navigation drawer. The
 - Edge (latest)
 - Mobile browsers (iOS Safari, Chrome Mobile)
 
-## 🎯 Portfolio-Ready Features
+## Portfolio-Ready Features
 
 This project demonstrates:
 - Complex state management without external libraries
@@ -181,7 +181,7 @@ This project demonstrates:
 - Mock data generation
 - Real-world UX patterns
 
-## 📝 Customization
+## Customization
 
 ### Changing the Accent Color
 Edit `tailwind.config.js`:
@@ -202,15 +202,15 @@ colors: {
 ### Modifying Mock Data
 Edit `src/data/mockData.js` to change users, posts, messages, etc.
 
-## 🤝 Contributing
+## Contributing
 
 This is a portfolio project, but feel free to fork and customize it for your own needs!
 
-## 📄 License
+## License
 
 MIT License - feel free to use this project for your portfolio or learning purposes.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Images from Unsplash
 - Icons from Lucide
@@ -218,4 +218,4 @@ MIT License - feel free to use this project for your portfolio or learning purpo
 
 ---
 
-**Built with ❤️ as a portfolio piece showcasing modern React development practices**
+**Built with care as a portfolio piece showcasing modern React development practices**
