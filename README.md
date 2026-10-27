@@ -219,3 +219,9 @@ MIT License - feel free to use this project for your portfolio or learning purpo
 ---
 
 **Built with ❤️ as a portfolio piece showcasing modern React development practices**
+
+---
+
+## Copyright
+
+Copyright (c) 2026 Green Rider Technology LLP (Ethara AI). All rights reserved.
