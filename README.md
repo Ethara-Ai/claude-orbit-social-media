@@ -206,10 +206,6 @@ Edit `src/data/mockData.js` to change users, posts, messages, etc.
 
 This is a portfolio project, but feel free to fork and customize it for your own needs!
 
-## 📄 License
-
-MIT License - feel free to use this project for your portfolio or learning purposes.
-
 ## 🙏 Acknowledgments
 
 - Images from Unsplash
